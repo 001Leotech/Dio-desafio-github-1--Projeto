@@ -1,3 +1,35 @@
-Link ara download do Git: https://git-scm.com/downloads
+#Link ara download do Git: https://git-scm.com/downloads
 
 -O Git bash é um terminal estendido para otimizar o uso do Git.
+
+
+
+**Comandos Para lançar o projeto do repositório local para
+o repositório remoto:**
+
+
+°Git Add ->
+
+Ao criarmos, modificarmos ou excluirmos um arquivo, essas alterações acontecerão em nosso espaço de trabalho local e não serão
+incluídas no próximo commit (a menos que alteremos as configurações). 
+
+Precisamos usar o comando git add para incluir as
+alterações de um ou vários arquivos em nosso próximo commit.
+
+
+
+
+°Git Commit ->
+
+Talvez esse seja o comando mais usado do Git. Quando chegamos a determinado 
+ponto em desenvolvimento, queremos salvar nossas alterações (talvez após uma tarefa ou resolução de problema específica).
+
+Git commit é como definir um ponto de verificação no processo de desenvolvimento. Você pode voltar a esse ponto mais tarde, se necessário.
+
+Também precisamos escrever uma mensagem breve para explicar o que desenvolvemos ou alteramos no código-fonte.
+
+
+°Git Push -> 
+
+Após fazer o commit de suas alterações, a próxima coisa a fazer é enviar suas alterações ao servidor remoto. Git push faz o upload
+dos seus commits no repositório remoto.
